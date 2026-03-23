@@ -12,7 +12,7 @@ const Hero = () => {
           Experience the finest culinary excellence in a modern, elegant atmosphere. We bring you a fusion of traditional techniques and contemporary aesthetics.
         </p>
         <div className="hero-buttons fade-in-up delay-2">
-          <a href="#reservations" className="btn-primary text-[20px] font-extrabold">
+          <a href="#reservations" className="btn-primary text-[20px] font-extrabold !bg-[#28c5b8]">
             Book a Table <ArrowRight size={18} />
           </a>
           <a href="#menu" className="btn-secondary">
