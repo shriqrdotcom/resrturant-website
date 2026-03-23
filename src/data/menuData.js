@@ -25,7 +25,7 @@ export const menuItems = [
     description: "Rich and creamy soup served with garlic herb crostini.",
     price: "$18",
     category: "Starters",
-    image: "https://images.unsplash.com/photo-1624633887034-754668baecd4?auto=format&fit=crop&q=80&w=800",
+    image: "/lobster-bisque.png",
   },
   {
     id: 4,
@@ -33,7 +33,7 @@ export const menuItems = [
     description: "Fresh burrata, heirloom tomatoes, basil pesto, and balsamic glaze.",
     price: "$16",
     category: "Starters",
-    image: "https://images.unsplash.com/photo-1606850731885-cb2ab5921f00?auto=format&fit=crop&q=80&w=800",
+    image: "/burrata-salad.png",
   },
   {
     id: 5,
